@@ -1,6 +1,4 @@
-# mqtt
-
-> A Vue.js project
+# MQTT.js
 
 ## Build Setup
 
