@@ -59,7 +59,6 @@ export default {
     }
   },
   created () {
-    console.log(this._MQTT)
     if (!this._MQTT.client.connected && !this._MQTT.client.disconnecting) {
       console.log('mqtt断开连接')
     }
